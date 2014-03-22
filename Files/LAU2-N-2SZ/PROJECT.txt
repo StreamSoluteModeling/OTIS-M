@@ -1,0 +1,44 @@
+## TITLE ######
+Laurel Run -- July 2008
+## PSTEP ######
+0.1
+## TSTEP ######
+0.005
+## TSTART #####
+0
+## TFINAL #####
+20
+## XSTART #####
+5
+## DSBOUND ####
+0
+## ISTEADY ####
+1
+## IBOUND #####
+3
+## QSTEP ######
+0
+## QSTART #####
+0.029
+## INEST ######
+1
+## IOPT #######
+0
+## ITIMEC #####
+0
+## LU #########
+m
+## IMETRIC ####
+0
+## IGRAPH #####
+1
+## IMOVIE #####
+0
+## NAMESOL ####
+NaCl
+## CU #########
+mg/L
+## IPROGRESS ##
+0
+## IOFUNCTION #
+1

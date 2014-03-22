@@ -1,0 +1,44 @@
+## TITLE ######
+Laurel Run -- June Slug
+## PSTEP ######
+0.002
+## TSTEP ######
+0.0002
+## TSTART #####
+0
+## TFINAL #####
+0.15
+## XSTART #####
+5
+## DSBOUND ####
+0
+## ISTEADY ####
+1
+## IBOUND #####
+3
+## QSTEP ######
+0
+## QSTART #####
+0.0526
+## INEST ######
+0
+## IOPT #######
+1
+## ITIMEC #####
+0
+## LU #########
+m
+## IGRAPH #####
+1
+## IMETRIC ####
+0
+## IMOVIE #####
+0
+## NAMESOL ####
+NaCl
+## CU #########
+mg/L
+## IPROGRESS ##
+0
+## IOFUNCTION #
+1
